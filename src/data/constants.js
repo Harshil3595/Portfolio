@@ -135,7 +135,7 @@ export const education = [
     school: "Nirma Universityar",
     date: "July 2018 - May 2023",
     grade: "7.24 CGPA",
-    desc: "I am complted my  Bachelor's degree in Computer Science and Engineering at Nirma University, Ahmedabad.  I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    desc: "I  completed my  Bachelor's degree in Computer Science and Engineering at Nirma University, Ahmedabad.  I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "BTech, Computer Science and Engineering",
   },
   {
@@ -143,7 +143,7 @@ export const education = [
     school: "Smt RC Patel Secondary and Higher Secondary School, Gandhinagar",
     date: "Apr 2018 - March 2029",
     grade: "90%",
-    desc: "I completed my class 12 high school education at Smt RC Patel Secondary and Higher Secondary School, Gandhinagar.",
+    desc: "I  completed my class 12 high school education at Smt RC Patel Secondary and Higher Secondary School, Gandhinagar.",
     degree: "ISC(XII)",
   },
   {
